@@ -1,6 +1,6 @@
 # npmdoc-custom-react-scripts
 
-#### api documentation for  custom-react-scripts (v0.0.23)  [![npm package](https://img.shields.io/npm/v/npmdoc-custom-react-scripts.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-custom-react-scripts) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-custom-react-scripts.svg)](https://travis-ci.org/npmdoc/node-npmdoc-custom-react-scripts)
+#### basic api documentation for  custom-react-scripts (v0.0.23)  [![npm package](https://img.shields.io/npm/v/npmdoc-custom-react-scripts.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-custom-react-scripts) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-custom-react-scripts.svg)](https://travis-ci.org/npmdoc/node-npmdoc-custom-react-scripts)
 
 #### Configuration and scripts for Create React App.
 
